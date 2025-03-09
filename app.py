@@ -93,4 +93,4 @@ def main():
         })
         st.dataframe(results_df)
 
-        best_method = results_
+        best_method = results_df
